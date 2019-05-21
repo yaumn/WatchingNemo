@@ -1,0 +1,30 @@
+mai 17, 2019 8:45:20 AM mainwindow.SocketHandler startConnection
+INFOS: Connection to the server
+mai 17, 2019 8:45:20 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: hello
+mai 17, 2019 8:45:20 AM mainwindow.SocketHandler receiveMessage
+INFOS: Reveived from server in port 12345: 
+mai 17, 2019 8:45:20 AM mainwindow.SocketHandler startPing
+INFOS: Ping sent to the server in port 12345.
+mai 17, 2019 8:45:20 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: ls
+mai 17, 2019 8:45:54 AM mainwindow.SocketHandler startConnection
+INFOS: Connection to the server
+mai 17, 2019 8:45:54 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: hello
+mai 17, 2019 8:45:54 AM mainwindow.SocketHandler receiveMessage
+INFOS: Reveived from server in port 12345: 
+mai 17, 2019 8:45:54 AM mainwindow.SocketHandler startPing
+INFOS: Ping sent to the server in port 12345.
+mai 17, 2019 8:45:54 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: ls
+mai 17, 2019 8:47:25 AM mainwindow.SocketHandler startConnection
+INFOS: Connection to the server
+mai 17, 2019 8:47:25 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: hello
+mai 17, 2019 8:47:25 AM mainwindow.SocketHandler receiveMessage
+INFOS: Reveived from server in port 12345: 
+mai 17, 2019 8:47:25 AM mainwindow.SocketHandler startPing
+INFOS: Ping sent to the server in port 12345.
+mai 17, 2019 8:47:26 AM mainwindow.SocketHandler sendMessage
+INFOS: Sent to server /127.0.0.1:12345: ls
